@@ -1,0 +1,24 @@
+# File di compilazione Python
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Ambiente virtuale
+env/
+venv/
+.venv/
+
+# File temporanei
+*.log
+*.tmp
+*.bak
+
+# VS Code
+.vscode/
+
+# File di sistema
+.DS_Store
+Thumbs.db
+
+# Variabili ambiente
+.env
